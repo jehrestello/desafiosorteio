@@ -47,6 +47,6 @@ As seguintes tecnologias foram utilizadas:
 <p>Veja um case de uso da ferramenta: Escolher alguem aleatório de um conjunto de pessoas.</p>
 <video controls src="assets/video.mp4" title="Title"></video>
 
-Gostou deste sorteador ou pode colaborar? [Visite o projeto no Github](https://desafiosorteio.vercel.app/)
+Gostou deste sorteador ou pode colaborar? [Conheça o projeto](https://desafiosorteio.vercel.app/)
 
 
